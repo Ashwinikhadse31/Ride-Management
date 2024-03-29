@@ -1,6 +1,6 @@
-### Fantastic Rides
+### Rides
 
-This app is used for Ride Management
+This app is for Ride Management
 
 ### Installation
 

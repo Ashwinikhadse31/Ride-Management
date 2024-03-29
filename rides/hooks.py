@@ -1,7 +1,7 @@
 app_name = "rides"
-app_title = "Fantastic Rides"
+app_title = "Rides"
 app_publisher = "Ashwini Khadse"
-app_description = "This app is used for Ride Management"
+app_description = "This app is for Ride Management"
 app_email = "ashwinikhadse22@navgurukul.org"
 app_license = "mit"
 # required_apps = []
