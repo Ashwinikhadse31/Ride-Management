@@ -17,19 +17,6 @@ class Driver(Document):
 	def set_full_name(self):
 		self.full_name = f"{self.first_name} {self.last_name}"
 
-	
-	# def calculate_age(self):
-
-	# 	# today = datetime.today()
-
-	# 	year = getdate.year
-	# 	print(year)
-
-	# 	dob = self.dob.split("-")# 1999-12-13 (in frappe the date is in reverse format if you add it in correct format)
-	# 	print(dob)
-	# 	self.age = year - int(dob[0]) 
-		# print(self.age)
-
 
 
 	def calculate_age(self):
